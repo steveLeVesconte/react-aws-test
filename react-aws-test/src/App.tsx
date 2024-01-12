@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <div><h1>Test 2 -  data from env: {apiKey}</h1>
+      <div><h1>Test 3 -  data from env: {apiKey}</h1>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
